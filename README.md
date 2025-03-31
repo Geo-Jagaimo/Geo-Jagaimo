@@ -1,4 +1,16 @@
-## Hi there 👋
+## This is Geo-Jagaimo's repository 🥔
+
+## My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Geo-Jagaimo/Geo-Jagaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
