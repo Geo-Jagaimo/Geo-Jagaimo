@@ -1,4 +1,4 @@
-## Geo-Jagaimo's repository 🥔
+## Geo-Jagaimo's Repository 🥔
 
 ### My GitHub Stats
 
