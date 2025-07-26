@@ -7,7 +7,7 @@
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### GitHub Trophies
