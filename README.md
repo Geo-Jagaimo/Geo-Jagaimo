@@ -1,21 +1,17 @@
 ## Geo-Jagaimo's Repository 🥔
 
-<table style="border: none;">
-<tr>
-<td width="50%" style="border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="50%" style="border: none; padding: 0;">
 
 ### My GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
-<td width="50%" style="border: none;">
+<td width="50%" style="border: none; padding: 0;">
 
 ### Most Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
