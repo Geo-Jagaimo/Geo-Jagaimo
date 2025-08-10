@@ -1,25 +1,19 @@
 ## Geo-Jagaimo's Repository 🥔
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="50%" style="border: none; padding: 0;">
-
-### My GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia&hide_border=true" style="border: none;" />
-</a>
-
-</td>
-<td width="50%" style="border: none; padding: 0;">
-
-### Most Used Languages
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia&hide_border=true" style="border: none;" />
-</a>
-
-</td>
-</tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>My GitHub Stats</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia&hide_border=true" style="border: none;" />
+    </a>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <h3>Most Used Languages</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia&hide_border=true" style="border: none;" />
+    </a>
+  </div>
+</div>
 
 ### GitHub Trophies
 
