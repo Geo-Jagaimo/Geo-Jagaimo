@@ -1,14 +1,21 @@
 ## Geo-Jagaimo's Repository 🥔
 
-### My GitHub Stats
+<table>
+<tr>
+<td>
 
+### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+<td>
 
 ### Most Used Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+</tr>
+</table>
 
 ### GitHub Trophies
 
