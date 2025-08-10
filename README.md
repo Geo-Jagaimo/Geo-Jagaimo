@@ -1,21 +1,12 @@
 ## Geo-Jagaimo's Repository 🥔
 
-### My GitHub Stats　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Most Used Languages
-
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia&hide_border=true" style="border: none;" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; border: none;">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia&hide_border=true" style="border: none;" />
-</a>
-
-<br clear="both" />
+| My GitHub Stats | Most Used Languages |
+|:---:|:---:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=algolia&hide_border=true" style="border: none;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia&hide_border=true" style="border: none;" /> |
 
 ### GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none; border: none;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=algolia" style="border: none;" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
