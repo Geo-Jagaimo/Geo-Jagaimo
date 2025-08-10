@@ -21,8 +21,6 @@
 </tr>
 </table>
 
-<br clear="both" />
-
 ### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
