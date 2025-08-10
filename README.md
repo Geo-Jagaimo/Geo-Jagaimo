@@ -2,7 +2,7 @@
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=discord)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Most Used Languages
