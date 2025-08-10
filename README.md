@@ -1,8 +1,8 @@
 ## Geo-Jagaimo's Repository 🥔
 
-<table>
+<table style="border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" style="border: none;">
 
 ### My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,7 +10,7 @@
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" style="border: none;">
 
 ### Most Used Languages
 <a href="https://github.com/anuraghazra/github-readme-stats">
