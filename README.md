@@ -7,7 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
