@@ -1,7 +1,7 @@
 ## Geo-Jagaimo's Repository 🥔
 
 ### My GitHub Stats
-[![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
