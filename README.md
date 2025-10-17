@@ -4,7 +4,7 @@
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
