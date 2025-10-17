@@ -1,7 +1,7 @@
 ## Geo-Jagaimo's Repository 🥔
 
 ### My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Geo-Jagaimo}&theme={nord_dark})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark)
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-Jagaimo&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
