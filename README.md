@@ -3,12 +3,12 @@
 ### My GitHub Stats
 
 <p align="left">
-  <img alt="Profile Details" width="800px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" />
+  <img alt="Profile Details" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" />
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" />
-  <img alt="Productive Time" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" />
+  <img alt="Top Langs" width="348px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" />
+  <img alt="Productive Time" width="348px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" />
 </p>
 
 <!--
