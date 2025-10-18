@@ -3,7 +3,7 @@
 ### My GitHub Stats
 
 <p align="left">
-  <img alt="Profile Details" width="700px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" />
+  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" />
 </p>
 
 <p align="left"> 
