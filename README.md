@@ -1,7 +1,8 @@
-## 🥔🥔🥔 Geo-Jagaimo's Repository 🥔🥔🥔
+### Geo-Jagaimo's Repository 🥔
 
 ### My GitHub Stats
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
