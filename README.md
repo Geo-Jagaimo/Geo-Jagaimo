@@ -5,10 +5,6 @@
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Geo-Jagaimo&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 <!--
 **Geo-Jagaimo/Geo-Jagaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
