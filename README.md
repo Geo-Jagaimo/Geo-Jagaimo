@@ -1,4 +1,4 @@
-## Geo-Jagaimo's Repository 🥔
+## 🥔🥔🥔 Geo-Jagaimo's Repository 🥔🥔🥔
 
 ### My GitHub Stats
 [![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
