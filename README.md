@@ -1,14 +1,18 @@
-## Hi there, I'm Geo-Jagaimo 🥔
+# 🥔 Hi there, I'm Geo-Jagaimo
 
-### My GitHub Stats
+### 👨‍💻 My GitHub stats
 
-<p align="left">
-  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" />
-</p>
-<p align="left"> 
-  <img alt="Top Langs" width="348px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" />
-  <img alt="Productive Time" width="348px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" />
-</p>
+<div align="left">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" alt="Profile Details" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" alt="Top Langs" />
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9">
+    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" alt="Productive Time" />
+  </a>
+</div>
 
 <!--
 **Geo-Jagaimo/Geo-Jagaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
