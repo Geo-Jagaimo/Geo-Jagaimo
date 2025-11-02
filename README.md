@@ -7,10 +7,16 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=nord_dark" alt="Profile Details" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" alt="Top Langs" />
+    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" alt="Productive Time" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geo-Jagaimo&theme=nord_dark" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="348px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark" alt="Most Commit Language" />
   </a>
 </div>
 
