@@ -1,4 +1,4 @@
-<h3>Hello, I'm keita Uemori <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.gif" width="24" height="24" align="absbottom"></h3>
+<h3>Hello, I'm Keita Uemori <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f423/512.gif" width="24" height="24" align="absbottom"></h3>
 
 - [MIERUNE Inc.](https://github.com/MIERUNE)（ 2024.04 - ）
 
