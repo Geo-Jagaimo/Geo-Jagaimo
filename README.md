@@ -32,4 +32,4 @@
 
 [![Github](https://img.shields.io/github/followers/Geo-Jagaimo?label=Follow&style=social)](https://github.com/Geo-Jagaimo)
 [![Twitter](https://img.shields.io/twitter/follow/Geo_Jagaimo?style=social)](https://twitter.com/Geo_Jagaimo)
-[![Bluesky](https://img.shields.io/badge/Follow-@geo--jagaimo.dev-0285FF?logo=bluesky&logoColor=white&style=flat&labelColor=1185FE)](https://bsky.app/profile/geo-jagaimo.dev)
+[![Bluesky](https://img.shields.io/badge/Follow-@salamanderezo.me-0285FF?logo=bluesky&logoColor=white&style=flat&labelColor=1185FE)](https://bsky.app/profile/salamanderezo.me)
