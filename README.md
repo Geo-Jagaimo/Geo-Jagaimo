@@ -10,7 +10,7 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=calm" height="195" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=calm" height="195" alt="Geo-Jagaimo's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=calm&hide_border=true" height="195" alt="Geo-Jagaimo's GitHub stats" />
 </div>
 <!--
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
