@@ -26,7 +26,6 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_bright" />
     </a>
 -->
-</div>
 
 ---
 
