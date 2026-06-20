@@ -35,5 +35,5 @@
 <h3>Social <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" width="24" height="24" align="absbottom"></h3>
 
 [![Github](https://img.shields.io/github/followers/Geo-Jagaimo?label=Follow&style=social)](https://github.com/Geo-Jagaimo)
-[![Twitter](https://img.shields.io/twitter/follow/Geo_Jagaimo?style=social)](https://twitter.com/Geo_Jagaimo)
 [![Bluesky](https://img.shields.io/badge/Follow-@salamanderezo.me-0285FF?logo=bluesky&logoColor=white&style=flat&labelColor=1185FE)](https://bsky.app/profile/salamanderezo.me)
+[![Twitter](https://img.shields.io/twitter/follow/Geo_Jagaimo?style=social)](https://twitter.com/Geo_Jagaimo)
