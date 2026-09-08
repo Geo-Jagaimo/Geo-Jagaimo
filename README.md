@@ -7,6 +7,9 @@
 <h3>Stats <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" width="24" height="24" align="absbottom"></h3>
 
 <div align="left">
+    <a href="http://github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=gotham">
+    </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=calm" height="195" />
     </a>
