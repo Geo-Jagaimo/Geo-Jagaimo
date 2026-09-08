@@ -19,6 +19,9 @@
     <a>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=gotham&exclude=QML,HTML" height="195" alt="Top languages in commits">
     </a>
+    <a>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=gotham" height="195">
+    </a>
 </div>
 
 ---
