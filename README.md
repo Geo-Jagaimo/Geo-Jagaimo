@@ -8,16 +8,16 @@
 
 <div align="left">
     <a>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=gotham" height="195" alt="Geo-Jagaimo's GitHub stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=nord_dark" height="195" alt="Geo-Jagaimo's GitHub stats">
     </a>
     <a>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=gotham&utcOffset=9" height="195" alt="Geo-Jagaimo's Productive time">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_dark&utcOffset=9" height="195" alt="Geo-Jagaimo's Productive time">
     </a>
     <a>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geo-Jagaimo&theme=gotham&exclude=QML,HTML" height="195" alt="Top languages in repository">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geo-Jagaimo&theme=nord_dark&exclude=QML,HTML" height="195" alt="Top languages in repository">
     </a>
     <a>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=gotham&exclude=QML,HTML" height="195" alt="Top languages in commits">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_dark&exclude=QML,HTML" height="195" alt="Top languages in commits">
     </a>
 </div>
 
