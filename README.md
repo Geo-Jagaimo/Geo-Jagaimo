@@ -8,30 +8,12 @@
 
 <div align="left">
     <a href="http://github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=gotham">
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=calm" height="195" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geo-Jagaimo&theme=gotham" height="195" alt="Geo-Jagaimo's GitHub stats">
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=calm&exclude=QML,HTML" height="195" alt="Geo-Jagaimo's GitHub stats" />
     </a>
 </div>
-<!--
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geo-Jagaimo&theme=nord_bright&utcOffset=9" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geo-Jagaimo&theme=nord_bright" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geo-Jagaimo&theme=calm" />
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geo-Jagaimo&theme=nord_bright" />
-    </a>
-    <img src="https://github-stats-extended.vercel.app/api?username=Geo-Jagaimo&show_icons=true&theme=calm&hide_border=true" height="195" alt="Geo-Jagaimo's GitHub stats" />
--->
 
 ---
 
